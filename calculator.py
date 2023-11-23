@@ -13,3 +13,6 @@ def multi(a,b):
 #divide
 def div_premium(a,b):
     return a/b
+
+def power(a):
+    return a*a
