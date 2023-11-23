@@ -12,4 +12,4 @@ def multi(a,b):
 
 #divide
 def div_premium(a,b):
-    return a/b
+    return a*a*a
