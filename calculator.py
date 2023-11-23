@@ -1,4 +1,4 @@
-#My Calculator
+#My calculator
 
 def add(a,b):
     return a+b
